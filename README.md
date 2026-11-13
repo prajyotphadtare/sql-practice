@@ -3,13 +3,13 @@
 My SQL learning log while preparing for data analyst and data science roles.
 
 ## Topics
-- [ ] SELECT, WHERE, ORDER BY, LIMIT
-- [ ] Aggregations: COUNT, SUM, AVG, GROUP BY, HAVING
-- [ ] JOINs: INNER, LEFT, RIGHT, FULL
-- [ ] Subqueries and CTEs
-- [ ] Window functions: ROW_NUMBER, RANK, LAG/LEAD
-- [ ] Date and string functions
-- [ ] Query optimisation basics
+- [x] SELECT, WHERE, ORDER BY, LIMIT
+- [x] Aggregations: COUNT, SUM, AVG, GROUP BY, HAVING
+- [x] JOINs: INNER, LEFT, RIGHT, FULL
+- [x] Subqueries and CTEs
+- [x] Window functions: ROW_NUMBER, RANK, LAG/LEAD
+- [x] Date and string functions
+- [x] Query optimisation basics
 
 ## Progress log
 - Nov 2026: Started structured SQL practice
